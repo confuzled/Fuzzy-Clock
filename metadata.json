@@ -12,10 +12,11 @@
 		"3.36",
 		"3.38",
 		"40.0",
-		"41.0"
+		"41.0",
+		"42.0"
 	],
 	"url": "https://github.com/Cj-Malone/Fuzzy-Clock",
 	"uuid": "fuzzy-clock@keepawayfromfire.co.uk",
-	"version": 11
+	"version": 12
 }
 
